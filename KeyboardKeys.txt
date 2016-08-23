@@ -1,0 +1,9 @@
+A: There are 26 alpha keys. ( Will be known as a1-a26 )
+B: There are 34 keys surrounding the alpha keys. ( Will be known as s1-s35 )
+A and B will make up section 1.
+Section 1:
+ | s1  | s2  | s3  | s4  | s5  | s6  | s7  | s8  | s9  | s10 | s11  | s12 | s13 | s14  |
+ | s15    | a1  | a2  | a3  | a4  | a5  | a6 | a7  | a8 | a9 | a10 | s16 | s17 | s18   |
+ | s19      | a11 | a12 | a13 | a14 | a15 | a16 | a17 | a18 | a19 | s20 | s21 | s22    |
+ | s23        | a20 | a21 | a22 | a23 | a24 | a25 | a26 | s24 | s25 | s26  | s27       |
+ | s28   | s29   | s30   |  s31                           | s32  | s33  | s34  | s35   |
