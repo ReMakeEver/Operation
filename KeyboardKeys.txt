@@ -7,3 +7,12 @@ Section 1:
  | s19      | a11 | a12 | a13 | a14 | a15 | a16 | a17 | a18 | a19 | s20 | s21 | s22    |
  | s23        | a20 | a21 | a22 | a23 | a24 | a25 | a26 | s24 | s25 | s26  | s27       |
  | s28   | s29   | s30   |  s31                           | s32  | s33  | s34  | s35   |
+
+C: There are 5 keys( Will be known as ar1-ar5 )
+D: There are 11 keys( Will be known as c1-c11)
+Section 2:
+ | c1 | c2 | c3 |
+ | c4 | c5 | c6 |
+ | c7 | c8 | c9 |
+ | c10| ar1| c11|
+ | ar2| ar3| ar4|
