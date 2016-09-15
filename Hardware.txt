@@ -1,0 +1,32 @@
+Network:
+ LAN Port:
+  LP1
+ Network Interface Card:
+  NIC1
+  NIC2
+  NIC3
+
+Storage:
+ Hard Disk:
+  HD1:
+ RAM Drive:
+  RD1:
+
+Controls:
+ Universal Serial Bus:
+  USB Group1:
+   USBG1A
+   USBG1B
+  USB Group2:
+   USBG2A
+   USBG2B
+   USBG2C
+   USBG2D
+  USB Group 3:
+   USBG3A
+   USBG3B
+   USBG3C
+ Headphone:
+  H1
+ Microphone:
+  M1
